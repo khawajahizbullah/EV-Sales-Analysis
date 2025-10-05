@@ -75,7 +75,3 @@ This project is open-source and available under the MIT License.
 
 ---
 
-### ✨ Two-line Repo Description
-
-**EV Sales Analysis using Python (Pandas, Seaborn) – uncovering EV market growth trends, BEV vs. PHEV comparison, and regional adoption insights.**
-Part of my 15-Day Data & Business Analysis Challenge.
